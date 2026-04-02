@@ -75,3 +75,8 @@ Please fork this repository, create a new branch, and submit a pull request.
 
 📄 License
 This project uses the MIT License.
+
+
+👤 Author
+Created by Dominikus Krisna Herlambang
+If you find this repository useful, don't forget to star it on GitHub.
